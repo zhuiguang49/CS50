@@ -1,2 +1,1 @@
-# CS50
-CS50 Learning
+Homework and notes when learning CS50
